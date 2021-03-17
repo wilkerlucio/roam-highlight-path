@@ -1,8 +1,8 @@
 {
-  "id": "nldates-obsidian",
-  "name": "Natural Language Dates",
-  "description": "Create date-links based on natural language",
-  "author": "Argentina Ortega Sainz",
+  "id": "highlight-path",
+  "name": "Highlight Active Path",
+  "description": "Highlight Roam Paths as you focus on them",
+  "author": "...",
   "authorUrl": "",
   "roam-js": ["main.js"],
   "roam-css": ["styles.css"]
