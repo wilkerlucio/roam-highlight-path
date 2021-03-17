@@ -4,6 +4,6 @@
   "description": "Highlight Roam Paths as you focus on them",
   "author": "...",
   "authorUrl": "",
-  "roam-js": ["main.js"],
-  "roam-css": ["styles.css"]
+  "roam-js": "main.js",
+  "roam-css": "styles.css"
 }
