@@ -2,8 +2,7 @@
   "id": "highlight-path",
   "name": "Highlight Active Path",
   "description": "Highlight Roam Paths as you focus on them",
-  "author": "...",
-  "authorUrl": "",
+  "version": "1.0.0",
   "roam-js": "main.js",
   "roam-css": "styles.css"
 }
