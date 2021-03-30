@@ -3,5 +3,6 @@
   "name": "Highlight Active Path",
   "description": "Actually sets background to black.",
   "version": "1.0.3",
-  "roam-css": "styles.css"
+  "roam-css": "styles.css",
+  "roam-theme-preview": "preview.png"
 }
