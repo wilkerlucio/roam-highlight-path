@@ -1,7 +1,7 @@
 {
   "id": "highlight-path",
   "name": "Highlight Active Path",
-  "description": "Highlight Roam Paths as you focus on them",
+  "description": "Actually sets background to black.",
   "version": "1.0.2",
   "roam-css": "styles.css"
 }
